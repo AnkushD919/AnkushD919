@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
+
 - 👋 Hi, I’m @AnkushD919
 - 👀 I’m interested in ... #php #codeingter #javscript #mysql 
 - 🌱 I’m currently learning ... #javascript #es6 #python
