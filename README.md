@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+![Junior or senior front-end developer](https://user-images.githubusercontent.com/93730939/174653394-6649ce3e-8800-465b-a164-cf26aac2833f.gif)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
 
