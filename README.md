@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Javascript , Php , Codeigniter , MySql**
 
-- 📫 How to reach me **ankushd919@gmail.com**
+- 📫 How to reach me **<a href="mailto:ankushd919@gmail.com">Mail Me</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
